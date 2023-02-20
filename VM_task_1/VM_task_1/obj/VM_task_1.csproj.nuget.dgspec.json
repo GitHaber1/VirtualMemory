@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Даниил\\source\\repos\\VM_task_1\\VM_task_1\\VM_task_1.csproj": {}
+    "C:\\Users\\Даниил\\Documents\\GitHub\\VirtualMemory\\VM_task_1\\VM_task_1\\VM_task_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Даниил\\source\\repos\\VM_task_1\\VM_task_1\\VM_task_1.csproj": {
+    "C:\\Users\\Даниил\\Documents\\GitHub\\VirtualMemory\\VM_task_1\\VM_task_1\\VM_task_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Даниил\\source\\repos\\VM_task_1\\VM_task_1\\VM_task_1.csproj",
+        "projectUniqueName": "C:\\Users\\Даниил\\Documents\\GitHub\\VirtualMemory\\VM_task_1\\VM_task_1\\VM_task_1.csproj",
         "projectName": "VM_task_1",
-        "projectPath": "C:\\Users\\Даниил\\source\\repos\\VM_task_1\\VM_task_1\\VM_task_1.csproj",
+        "projectPath": "C:\\Users\\Даниил\\Documents\\GitHub\\VirtualMemory\\VM_task_1\\VM_task_1\\VM_task_1.csproj",
         "packagesPath": "C:\\Users\\Даниил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Даниил\\source\\repos\\VM_task_1\\VM_task_1\\obj\\",
+        "outputPath": "C:\\Users\\Даниил\\Documents\\GitHub\\VirtualMemory\\VM_task_1\\VM_task_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Даниил\\AppData\\Roaming\\NuGet\\NuGet.Config",
