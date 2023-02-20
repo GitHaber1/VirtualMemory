@@ -8,7 +8,10 @@ namespace VM_task_1
 {
     public class Enter
     {
-        // Метод, в котором моделируется управление виртуальной памятью.
+        /// <summary>
+        /// Метод, в котором моделируется управление виртуальной памятью.
+        /// </summary>
+        /// <param name="gen"> Объект класса, в котором производится работа с виртуальной памятью. </param>
         private void TestRun(General gen)
         {
             Random rand = new Random();
@@ -50,7 +53,9 @@ namespace VM_task_1
                     Console.WriteLine(gen.ReadElement(i) + " - после записи");
             }
         }
-        // Точка входа в программу.
+        /// <summary>
+        /// Точка входа в программу.
+        /// </summary>
         public static void Main()
         {
             General gen = new General("file.bin", 10000);
